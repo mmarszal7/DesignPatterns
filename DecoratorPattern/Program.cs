@@ -1,5 +1,7 @@
 ﻿namespace DecoratorPattern
 {
+    // Decorator definition
+    // Attach additional responsibilities (Options) to an objects dynamically keeping the same interface (IAnimal). 
     class Program
     {
         static void Main(string[] args)
